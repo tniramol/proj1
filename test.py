@@ -1,3 +1,3 @@
 print("Hello World")
-print("my name is Thitiwat")
-print("Mew")
+print("my name is Nattanun")
+print("Chompoo")
